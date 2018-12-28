@@ -1,0 +1,2 @@
+ary = []
+puts ary.length()
